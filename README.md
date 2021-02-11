@@ -6,8 +6,12 @@
   
   -YYYYYYY print statistical combination of "word" list and the count of running the XXXXX code
   
-# install
+# Install
 
 sudo pip3 install telegram.py
 
-sudo pip3 install python-telegram-bot
+sudo pip3 install python-telegram-bot==13.2
+
+# Run
+
+sudo nohup python3 bots.py &
