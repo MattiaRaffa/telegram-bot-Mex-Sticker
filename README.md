@@ -1,4 +1,4 @@
-# Mex&Sticker telegram-bot
+# ℹ️ Mex&Sticker telegram-bot
 
 2 program:
 
@@ -6,12 +6,12 @@
   
   -YYYYYYY print statistical combination of "word" list and the count of running the XXXXX code
   
-# Install
+# 🔽 Install
 
 sudo pip3 install telegram.py
 
 sudo pip3 install python-telegram-bot==13.2
 
-# Run
+# ⚙️ Run
 
 sudo nohup python3 bots.py &
